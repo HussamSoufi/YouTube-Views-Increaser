@@ -1,4 +1,5 @@
-#@Hussam Soufi
+#@author  Hussam Soufi: hussam1soufi@gmail.com
+
 import webbrowser
 import time
 import os
